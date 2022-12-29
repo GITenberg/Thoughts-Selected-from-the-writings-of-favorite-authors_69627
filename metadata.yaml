@@ -1,11 +1,16 @@
 _repo: Thoughts-Selected-from-the-writings-of-favorite-authors_69627
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69627-h/images/cover.jpg
 creator:
   author:
     agent_name: Association, Ladies of Fabiola Hospital
     gutenberg_agent_id: '55347'
     url: http://www.gutenberg.org/2009/agents/55347
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69627#Thoughts-Selected-from-the-writings-of-favorite-authors
 gutenberg_issued: '2022-12-23'
 identifiers:
   gutenberg: '69627'
